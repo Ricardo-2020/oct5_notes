@@ -1,0 +1,2 @@
+divs are "block" elements
+spans are "inline" for small bits of code
